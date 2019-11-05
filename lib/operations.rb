@@ -4,10 +4,10 @@ speed=0
 if 40>speed>60
 	return true
 elsif speedm>=40
-	return false 
+	return false
 else
- speed =< 60 
- return false 
+ speed =< 60
+ return false
 	end
 end
 
