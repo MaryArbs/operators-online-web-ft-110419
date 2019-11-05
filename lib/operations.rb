@@ -5,7 +5,7 @@ if speed<40
 	return true
 elsif speed>60
 	return true
-else
+else speed>40 && speed<60
 	return false
 	end
 end
